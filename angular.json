@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "m4a-webpage"
+    }
+  },
+  "defaultProject": "m4a-webpage",
+  "cli": {
+    "analytics": false
+  }
 }

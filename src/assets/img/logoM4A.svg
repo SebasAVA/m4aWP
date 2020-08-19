@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 708.7 425.2" style="enable-background:new 0 0 708.7 425.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#00A99D;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#00A99D;stroke-width:10;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#00A99D;stroke-width:15;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#00A99D;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'Ebrima-Bold';}
+	.st6{font-size:84.9789px;}
+	.st7{fill:#1A1A1A;stroke:#000000;stroke-miterlimit:10;}
+	.st8{stroke:#000000;stroke-miterlimit:10;}
+	.st9{fill:#00A99D;stroke:#00A99D;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#333333;stroke-miterlimit:10;}
+	.st11{fill:#00A99D;stroke:#00A99D;stroke-width:0.25;stroke-miterlimit:10;}
+	.st12{fill:#00A99D;}
+	.st13{fill:#00A99D;stroke:#333333;stroke-width:0.11;stroke-miterlimit:10;}
+</style>
+<line class="st0" x1="76.7" y1="139.8" x2="165" y2="139.8"/>
+<line class="st1" x1="165" y1="192.6" x2="103.6" y2="192.6"/>
+<polyline class="st1" points="165,244.3 105.8,245.4 77.7,279.8 "/>
+<circle class="st2" cx="40.6" cy="49.8" r="28.6"/>
+<polyline class="st0" points="165,89.1 116.5,88 65.4,63.8 "/>
+<circle class="st3" cx="63.2" cy="301.9" r="25.3"/>
+<circle class="st0" cx="58.9" cy="140.3" r="17.8"/>
+<circle class="st0" cx="90.7" cy="192.6" r="12.9"/>
+<text transform="matrix(0.6988 0 0 1 154.2979 398.0596)" class="st4 st5 st6">Minds For Analytics</text>
+<line class="st7" x1="578.7" y1="297.2" x2="582.1" y2="297.2"/>
+<polyline class="st8" points="582.1,297.2 704.6,297.2 565.8,15.8 427,297.2 578.7,297.2 "/>
+<path class="st9" d="M589.7,66.2l0.7-0.4l-24.7-51.2l-138.5,282l0.5,0.7l31-0.1l135,0.1c0,0-0.6-48.4-2.9-49.2
+	c-2.3-0.8-90.8-5-90.8-5L571,75.7L589.7,66.2z"/>
+<line class="st10" x1="158.6" y1="327.3" x2="704.6" y2="327.3"/>
+<g>
+	<g>
+		<path d="M386.3,18H427v280h-42.5V88.3l2.1,12.3l-76.4,158.5H280l-76.4-154.6l2.1-16.2V298h-42.5V18H204l91.1,184.9L386.3,18z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st4" d="M478.9,233.6l77.6-167.4h33.4l-75.7,165.5h113.3v30H478.9V233.6z M578.6,161.3h31.6v136.1h-31.6V161.3z"/>
+	</g>
+</g>
+<polygon class="st11" points="383.7,297.9 427.2,297.9 427.2,18 385.2,18 "/>
+<path class="st12" d="M295.1,202.9"/>
+<polygon class="st13" points="204.2,18 205.7,108.5 280,259 310.5,259 316.8,245.6 295.1,202.9 "/>
+</svg>
